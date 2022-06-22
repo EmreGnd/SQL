@@ -6,7 +6,7 @@
 '2TB Red 5400 rpm SATA III 3.5 Internal NAS HDD' 
 Prepare a report showing whether the customers who purchased the named product have purchased the following three products.
 
-(İsimli ürünü satın alan müşterilerin aşağıdaki üç ürünü satın alıp almadıklarını gösteren bir rapor hazırlayınız.)
+(Ãsimli Ã¼rÃ¼nÃ¼ satÃ½n alan mÃ¼Ã¾terilerin aÃ¾aÃ°Ã½daki Ã¼Ã§ Ã¼rÃ¼nÃ¼ satÃ½n alÃ½p almadÃ½klarÃ½nÃ½ gÃ¶steren bir rapor hazÃ½rlayÃ½nÃ½z.)
 
 'Polk Audio - 50 W Woofer - Black' 
 'SB-2000 12 500W Subwoofer (Piano Gloss Black)' 
@@ -25,7 +25,7 @@ AND		D.product_name = '2TB Red 5400 rpm SATA III 3.5 Internal NAS HDD'
 
 ---
 
-customer_id, isim, soyisim, 1. ürün bilgisi, 2. ürün bilgisi, 3. ürün bilgisi
+customer_id, isim, soyisim, 1. Ã¼rÃ¼n bilgisi, 2. Ã¼rÃ¼n bilgisi, 3. Ã¼rÃ¼n bilgisi
 
 
 
